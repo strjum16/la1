@@ -11,9 +11,9 @@ Autoliste:
 * Audi
 
 Die schnellsten Menschen wenn es um den Jausenstand geht:
-1 Masser
-1 Masser
-1 Masser
-1 Danko
+1.  Masser
+1.  Masser
+1.  Masser
+1.  Danko
 
 Link [Wikipedia] (https://wikipedia.com)
