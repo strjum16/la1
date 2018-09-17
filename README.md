@@ -17,3 +17,5 @@ Die schnellsten Menschen wenn es um den Jausenstand geht:
 1.  Danko
 
 Link [Wikipedia] (https://wikipedia.com)
+
+Mit dem Kommando ´gedit ...` 
